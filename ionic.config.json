@@ -1,0 +1,7 @@
+{
+  "name": "memoryLists",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
